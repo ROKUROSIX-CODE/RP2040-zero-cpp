@@ -53,7 +53,8 @@
 
            OLED0 PRIMARIA              OLED1 Secundaria
                3V3                          3V3
-           GND /5V GP4 GP5              GND /5V GP4 GP5
+           GND /5V GP4 GP5              GND /5V  GP  GP
+            |   |   |   |                |   |   27  26
             |   |   |   |                |   |   |   |
             |   |   |   |                |   |   |   |
             V   V   V   V                V   V   V   V
